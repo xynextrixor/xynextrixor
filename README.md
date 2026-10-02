@@ -163,7 +163,7 @@ public:
   <h2>📊 GitHub Stats</h2>
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=anmolsin1124&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" width="49%" />
-    <img src="https://nirzak-streak-stats.vercel.app/?user=anmolsin1124&theme=tokyonight&hide_border=true" width="49%" />
+    <img src="https://nirzak-streak-stats.vercel.app/?user=xynextrixor&theme=tokyonight&hide_border=true" width="49%" />
     <br/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anmolsin1124&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" width="40%" />
   </div>
@@ -175,7 +175,7 @@ public:
 <div style="background: #1E1E1E; border: 4px solid #FFD166; border-radius: 8px; padding: 16px; margin: 20px 0; box-shadow: 8px 8px 0 #4ECDC4;">
   <h2 style="color: #F9F9F9; text-align: center;">🏆 Trophies</h2>
   <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=anmolsin1124&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" />
+    <img src="https://github-profile-trophy.vercel.app/?username=xynextrixor&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" />
   </div>
 </div>
 
