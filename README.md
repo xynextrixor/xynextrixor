@@ -15,7 +15,7 @@
   <a href="https://github.com/anmolsin1124"><img src="https://img.shields.io/badge/GitHub-anmolsin1124-1E1E1E?style=for-the-badge&logo=github&logoColor=white&labelColor=2B2D42" /></a>
   <a href="https://linkedin.com/in/singhanmol"><img src="https://img.shields.io/badge/LinkedIn-singhanmol-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" /></a>
   <a href="mailto:anmolsin1124@gmail.com"><img src="https://img.shields.io/badge/Email-anmolsin1124-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" /></a>
-  <img src="https://komarev.com/ghpvc/?username=anmolsin1124&style=for-the-badge&color=FF6B6B&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=xynextrixor&style=for-the-badge&color=FF6B6B&label=PROFILE+VIEWS" />
 </div>
 
 ---
@@ -162,10 +162,10 @@ public:
 <div style="background: #F0F0F0; border: 4px solid #1E1E1E; border-radius: 8px; padding: 20px; margin: 20px 0; box-shadow: 8px 8px 0 #FF6B6B;">
   <h2>📊 GitHub Stats</h2>
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=anmolsin1124&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" width="49%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=xynextrixor&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" width="49%" />
     <img src="https://nirzak-streak-stats.vercel.app/?user=xynextrixor&theme=tokyonight&hide_border=true" width="49%" />
     <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anmolsin1124&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" width="40%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xynextrixor&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" width="40%" />
   </div>
 </div>
 
