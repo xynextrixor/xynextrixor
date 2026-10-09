@@ -199,9 +199,9 @@ public:
   <h2 style="color: #F9F9F9; text-align: center;">🐍 Contribution Activity</h2>
   <div align="center">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anmolsin1124/anmolsin1124/output/github-snake-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anmolsin1124/anmolsin1124/output/github-snake.svg" />
-      <img alt="github-snake" src="https://raw.githubusercontent.com/anmolsin1124/anmolsin1124/output/github-snake.svg" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xynextrixor/xynextrixor/output/github-snake-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xynextrixor/xynextrixor/output/github-snake.svg" />
+      <img alt="github-snake" src="https://raw.githubusercontent.com/xynextrixor/xynextrixor/output/github-snake.svg" />
     </picture>
   </div>
 </div>
@@ -212,5 +212,5 @@ public:
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Consistency+%2B+Projects+%3D+Success+%F0%9F%9A%80&fontSize=18&fontColor=fff&animation=twinkling&fontAlignY=65" />
   <br/>
-  <a href="https://visitcount.itsvg.in/api?id=anmolsin1124&icon=6&color=9"><img src="https://visitcount.itsvg.in/api?id=anmolsin1124&icon=6&color=9" /></a>
+  <a href="https://visitcount.itsvg.in/api?id=xynextrixor&icon=6&color=9"><img src="https://visitcount.itsvg.in/api?id=xynextrixor&icon=6&color=9" /></a>
 </div>
