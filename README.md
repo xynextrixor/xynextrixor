@@ -2,6 +2,9 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Anmol%20Singh&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=xynextrixor%20%7C%20DSA%20%E2%80%A2%20C%2B%2B%20%E2%80%A2%20Python%20%E2%80%A2%20Data%20Science&descAlignY=55&descSize=16" />
 </div>
+<span data-target="animated-image.imageContainer">
+            <img data-target="animated-image.replacedImage" alt="68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a45784e6e4a35646a56354d6d5672615735686147527a636d5a684f484a744e6e6c794e484134596e67794e5756754f476c326258647562795a6c634431324d56396e61575a7a58334e6c59584a6a61435a6a6444316e2f4c485a7969784f6e48774444792f67697068792e676966" class="AnimatedImagePlayer-animatedImage" src="https://camo.githubusercontent.com/8fb808b16156255e6558078cb15f69948fc683617338fb3e905393de9b95745c/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a45784e6e4a35646a56354d6d5672615735686147527a636d5a684f484a744e6e6c794e484134596e67794e5756754f476c326258647562795a6c634431324d56396e61575a7a58334e6c59584a6a61435a6a6444316e2f4c485a7969784f6e48774444792f67697068792e676966" height="180" style="display: block; opacity: 1;">
+          <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="240" height="180"></canvas></span>
 
 <!-- TYPING SVG -->
 <div align="center">
@@ -28,9 +31,7 @@
   <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28" /> About Me</h2>
   <pre style="background: #1E1E1E; color: #F9F9F9; border-radius: 6px; padding: 16px; font-family: 'JetBrains Mono', monospace; font-size: 14px; line-height: 1.6;">
 // anmolsin1124.cpp
-<span data-target="animated-image.imageContainer">
-            <img data-target="animated-image.replacedImage" alt="68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a45784e6e4a35646a56354d6d5672615735686147527a636d5a684f484a744e6e6c794e484134596e67794e5756754f476c326258647562795a6c634431324d56396e61575a7a58334e6c59584a6a61435a6a6444316e2f4c485a7969784f6e48774444792f67697068792e676966" class="AnimatedImagePlayer-animatedImage" src="https://camo.githubusercontent.com/8fb808b16156255e6558078cb15f69948fc683617338fb3e905393de9b95745c/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a45784e6e4a35646a56354d6d5672615735686147527a636d5a684f484a744e6e6c794e484134596e67794e5756754f476c326258647562795a6c634431324d56396e61575a7a58334e6c59584a6a61435a6a6444316e2f4c485a7969784f6e48774444792f67697068792e676966" height="180" style="display: block; opacity: 1;">
-          <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="240" height="180"></canvas></span>
+
 #include &lt;iostream&gt;
 #include &lt;vector&gt;
 #include &lt;string&gt;
