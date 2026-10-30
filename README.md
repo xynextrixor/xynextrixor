@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D0D0D&height=180&section=header&text=Anmol%20Singh&fontSize=42&fontColor=FFDE59&animation=twinkling&fontAlignY=32&desc=xynextrixor%20%7C%20DSA%20%E2%80%A2%20C%2B%2B%20%E2%80%A2%20Python%20%E2%80%A2%20Data%20Science&descAlignY=55&descSize=16&descColor=006d5b" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D0D0D&height=180&section=header&text=Anmol%20Singh&fontSize=42&fontColor=FFDE59&animation=twinkling&fontAlignY=32&desc=xynextrixor%20%7C%20DSA%20%E2%80%A2%20C%2B%2B%20%E2%80%A2%20Python%20%E2%80%A2%20Data%20Science&descAlignY=55&descSize=16&descColor=006D5B" />
 </div>
 <img align="right" height="180" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnJ5djV5MmVraW5haGRzcmZhOHJtNnlyNHA4YngyNWVuOGl2bXdubyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LHZyixOnHwDDy/giphy.gif"  />
 
