@@ -111,8 +111,9 @@ string funFact() {
       <img src="https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white&labelColor=0D0D0D" />
       <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white&labelColor=0D0D0D" />
     </p>
+  </div>
   </td></tr>
-  </table>
+</table>
 
 <!-- CURRENT FOCUS CARD -->
 <table border="4" bordercolor="#0D0D0D" cellpadding="12" bgcolor="#FFDE59" width="100%">
@@ -151,6 +152,7 @@ string funFact() {
         <td>First contributions in progress</td>
       </tr>
     </table>
+  </div>
   </td></tr>
 </table>
 
