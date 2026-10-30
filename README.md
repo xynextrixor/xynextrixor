@@ -2,6 +2,8 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Anmol%20Singh&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=xynextrixor%20%7C%20DSA%20%E2%80%A2%20C%2B%2B%20%E2%80%A2%20Python%20%E2%80%A2%20Data%20Science&descAlignY=55&descSize=16" />
 </div>
+<img align="right" height="180" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnJ5djV5MmVraW5haGRzcmZhOHJtNnlyNHA4YngyNWVuOGl2bXdubyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LHZyixOnHwDDy/giphy.gif"  />
+
 
 <!-- TYPING SVG -->
 <div align="center">
